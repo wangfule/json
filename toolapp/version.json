@@ -1,0 +1,10 @@
+{
+	"describe":"描述信息",
+	"edition_url":"下载地址",
+	"edition_force":0, 
+	"package_type":1,
+	"edition_number":1,
+	"last_apk":1,
+	"edition_name":"1.0.0",
+	"edition_silence":1
+}
