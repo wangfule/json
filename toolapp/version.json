@@ -9,16 +9,3 @@
 	"edition_name": "1.0.3",
 	"edition_silence": 1
 }
-
-// describe 描述信息
-// edition_force 是否强制更新 0代表否 1代表是
-// edition_name 版本号 1.0.0
-// edition_silence 是否静默更新 0代表否 1代表是
-// package_type 是否整包更新 0是整包升级  1是wgt升级
-
-// edition_url 本次下载地址
-
-// edition_number 版本号
-// last_apk 最后一个apk版本号
-// last_apk_url 最后一个apk更新连接
-// 
