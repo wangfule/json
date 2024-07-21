@@ -1,0 +1,38 @@
+[{
+		"name": "追影猫",
+		"desc": "高清片源速度很快",
+		"type": "视频",
+		"img": "https://api.iowen.cn/favicon/zhuiyingmao2.com.png",
+		"url": "https://zhuiyingmao4.com/",
+		"hidden": false,
+		"id": 1
+	},
+	{
+		"name": "塔罗牌",
+		"desc": "免费的YES/NO塔罗牌",
+		"type": "工具",
+		"img": "https://yesnotarot.org/_next/image?url=https%3A%2F%2Fimg.yesnotarot.org%2Flogo-1.jpg&w=128&q=75",
+		"url": "https://yesnotarot.org/zh",
+		"hidden": false,
+		"id": 2
+	},
+	{
+		"name": "飞行棋",
+		"desc": "情侣感情升温小游戏",
+		"type": "情侣",
+		"img": "https://s21.ax1x.com/2024/07/12/pk4A0O0.png",
+		"url": "/pages/chess/index",
+		"hidden": true,
+		"id": 3
+	},
+	{
+		"name": "大转盘",
+		"desc": "看看你的运气会抽到什么",
+		"type": "情侣",
+		"img": "https://s21.ax1x.com/2024/07/18/pko6Dw4.png",
+		"url": "/pages/turntable/index",
+		"hidden": true,
+		"id":4
+	}
+
+]
