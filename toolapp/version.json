@@ -1,11 +1,11 @@
 {
-	"describe": "描述信息",
+	"describe": "新版本上新",
 	"edition_url": "https://wangfule.github.io/json/toolapp/tool.wgt",
 	"edition_force": 1,
 	"package_type": 1,
-	"edition_number": 3,
+	"edition_number": 2,
 	"last_apk": 2,
 	"last_apk_url":"https://wangfule.github.io/json/toolapp/tool.apk",
-	"edition_name": "1.0.3",
+	"edition_name": "1.0.2",
 	"edition_silence": 1
 }

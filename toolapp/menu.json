@@ -1,11 +1,67 @@
 [{
+		"name": "搜片",
+		"desc": "影视搜索引擎",
+		"type": "视频",
+		"img": "https://tv.baozangdh.com/wp-content/uploads/2023/11/bd839-soupian.one.png",
+		"url": "https://soupian.one/",
+		"hidden": false,
+		"id": 1
+	}, {
+		"name": "短剧天堂",
+		"desc": "免费短剧在线看",
+		"type": "视频",
+		"img": "https://tv.baozangdh.com/wp-content/uploads/2024/05/322c1-duanjutt.tv.png",
+		"url": "https://duanjutt.tv/",
+		"hidden": false,
+		"id": 2
+	}, {
+		"name": "netfly",
+		"desc": "奈飞影视",
+		"type": "视频",
+		"img": "https://api.iowen.cn/favicon/www.netfly.tv.png",
+		"url": "https://www.netfly.tv/",
+		"hidden": false,
+		"id": 3
+	}, {
+		"name": "可可影视",
+		"desc": "综合全网在线影视",
+		"type": "视频",
+		"img": "https://api.iowen.cn/favicon/www.keke1.app.png",
+		"url": "https://www.keke1.app/",
+		"hidden": false,
+		"id": 4
+	}, {
 		"name": "追影猫",
-		"desc": "高清片源速度很快",
+		"desc": "影视聚合搜索",
 		"type": "视频",
 		"img": "https://api.iowen.cn/favicon/zhuiyingmao2.com.png",
 		"url": "https://zhuiyingmao4.com/",
 		"hidden": false,
-		"id": 1
+		"id": 5
+	}, {
+		"name": "我爱跟剧",
+		"desc": "播放速度快节点多",
+		"type": "视频",
+		"img": "https://tv.baozangdh.com/wp-content/uploads/2023/11/3f379-www.52gen.vip.png",
+		"url": "https://www.52gen.vip/",
+		"hidden": false,
+		"id": 6
+	}, {
+		"name": "腐剧TV",
+		"desc": "宅男腐女线上影院平台",
+		"type": "视频",
+		"img": "https://tv.baozangdh.com/wp-content/uploads/2023/11/3dc62-www.fuju1.tv.png",
+		"url": "https://www.fuju1.tv/",
+		"hidden": false,
+		"id": 7
+	}, {
+		"name": "番薯动漫",
+		"desc": "宅男腐女线上影院平台",
+		"type": "视频",
+		"img": "https://tv.baozangdh.com/wp-content/uploads/2023/11/1d07a-gxdm01.org.png",
+		"url": "https://www.fsdm02.com/",
+		"hidden": false,
+		"id": 8
 	},
 	{
 		"name": "塔罗牌",
@@ -14,7 +70,43 @@
 		"img": "https://yesnotarot.org/_next/image?url=https%3A%2F%2Fimg.yesnotarot.org%2Flogo-1.jpg&w=128&q=75",
 		"url": "https://yesnotarot.org/zh",
 		"hidden": false,
-		"id": 2
+		"id": 9
+	},
+	{
+		"name": "性格测试",
+		"desc": "16种性格免费测试",
+		"type": "工具",
+		"img": "https://api.iowen.cn/favicon/uiiiuiii.com.png",
+		"url": "https://www.16personalities.com/ch/%E4%BA%BA%E6%A0%BC%E6%B5%8B%E8%AF%95",
+		"hidden": false,
+		"id": 10
+	},
+	{
+		"name": "潮汐",
+		"desc": "帮你缓解眼里",
+		"type": "工具",
+		"img": "https://pics.tide.moreless.io/site-static/logo.png",
+		"url": "https://tide.fm/sounds/",
+		"hidden": false,
+		"id": 11
+	},
+	{
+		"name": "下厨房",
+		"desc": "美食菜谱在家烹饪",
+		"type": "工具",
+		"img": "https://api.iowen.cn/favicon/www.xiachufang.com.png",
+		"url": "https://www.xiachufang.com/",
+		"hidden": false,
+		"id": 12
+	},
+	{
+		"name": "壁纸湖",
+		"desc": "为壁纸控攒宝藏",
+		"type": "工具",
+		"img": "http://me.lg3000.top/usr/uploads/2021/11/913187745.png",
+		"url": "https://bizihu.com/",
+		"hidden": false,
+		"id": 13
 	},
 	{
 		"name": "飞行棋",
@@ -23,7 +115,7 @@
 		"img": "https://s21.ax1x.com/2024/07/12/pk4A0O0.png",
 		"url": "/pages/chess/index",
 		"hidden": true,
-		"id": 3
+		"id": 14
 	},
 	{
 		"name": "大转盘",
@@ -32,7 +124,7 @@
 		"img": "https://s21.ax1x.com/2024/07/18/pko6Dw4.png",
 		"url": "/pages/turntable/index",
 		"hidden": true,
-		"id":4
+		"id": 15
 	}
 
 ]
