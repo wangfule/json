@@ -8,10 +8,10 @@
 // edition_silence 暂取消   0代表否 1代表是
 //  edition_issue 暂取消 是否发行  0否 1是 为了控制上架应用市场审核时不能弹出热更新框
 {
-	"describe": "新版本上新了",
+	"describe": "新版本上线了",
 	"edition_url": "",
 	"edition_force": 0,
-	"edition_number": 2,
+	"edition_number": 1,
 	"edition_name": "1.0.0",
 	"edition_silence": 0,
 	"package_type": 1,
