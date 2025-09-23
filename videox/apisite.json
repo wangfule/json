@@ -1,0 +1,10 @@
+{
+	v: 1,
+	site: {
+		pgxdy: {
+			api: "https://www.pgxdy.com/api/json.php",
+			name: "屁股资源",
+			adult: true
+		}
+	}
+}
