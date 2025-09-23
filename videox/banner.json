@@ -1,8 +1,22 @@
+//  url 跳转路径  img 图片地址  title 标题  type 类型 1 内部跳转  2跳转内部webview  3跳转其他应用或浏览器打开
+
 [
 	{
-		"url":"",
+		"url":"/pages/searchList/searchList?w=功夫",
+		"img":"https://pic.rmb.bdstatic.com/bjh/news/8df6cdf652265bcfbebc00cde9bbe6bf1112.jpeg",
+		"title":"功夫",
+		"type":"1"
+	},
+	{
+		"url":"http://www.baidu.com",
 		"img":"https://s21.ax1x.com/2024/07/22/pk7UEvQ.jpg",
 		"title":"微信公众号",
-		"type":"1"
+		"type":"2"
+	},
+	{
+		"url":"http://www.baidu.com",
+		"img":"https://s21.ax1x.com/2024/07/22/pk7UEvQ.jpg",
+		"title":"微信公众号",
+		"type":"3"
 	}
 ]
