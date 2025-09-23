@@ -1,12 +1,19 @@
-// package_type 1 暂不支持 edition_silence 不支持 0
+// describe 版本更新内容 富文本
+// edition_url //apk下载地址或者应用市场地址  安卓应用市场 market://details?id=xxxx 苹果store itms-apps://itunes.apple.com/cn/app/xxxxxx
+// edition_force //是否强制更新 0代表否 1代表是
+// edition_number 版本号 最重要的manifest里的版本号
+// edition_name 版本名称 manifest里的版本名称 
 
+// package_type 暂取消  //0是整包升级（apk或者appstore或者安卓应用市场） 1是wgt升级
+// edition_silence 暂取消   0代表否 1代表是
+//  edition_issue 暂取消 是否发行  0否 1是 为了控制上架应用市场审核时不能弹出热更新框
 {
 	"describe": "新版本上新",
 	"edition_url": "",
-	"edition_force": 1,
-	"edition_issue": 0,
-	"edition_number": 1,
+	"edition_force": 0,
+	"edition_number": 2,
 	"edition_name": "1.0.0",
 	"edition_silence": 0,
-	"package_type": 1
+	"package_type": 1,
+	"edition_issue": 0
 }
