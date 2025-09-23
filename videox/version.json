@@ -1,12 +1,11 @@
-// package_type 1 暂不支持 edition_silence 不支持 0
-
 {
 	"describe": "新版本上新",
 	"edition_url": "",
 	"edition_force": 1,
-	"edition_issue": 0,
+	"package_type": 1,
 	"edition_number": 1,
+	"last_apk": 1,
+	"last_apk_url":"",
 	"edition_name": "1.0.0",
-	"edition_silence": 0,
-	"package_type": 1
+	"edition_silence": 1
 }
