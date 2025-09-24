@@ -2,21 +2,15 @@
 
 [
 	{
-		"url":"/pages/searchList/searchList?w=功夫",
-		"img":"https://pic.rmb.bdstatic.com/bjh/news/8df6cdf652265bcfbebc00cde9bbe6bf1112.jpeg",
-		"title":"功夫",
-		"type":1
-	},
-	{
-		"url":"http://www.baidu.com",
-		"img":"https://s21.ax1x.com/2024/07/22/pk7UEvQ.jpg",
-		"title":"微信公众号",
+		"url":"https://trend.tgmeng.com/",
+		"img":"https://img2.baidu.com/it/u=809141879,2754561537&fm=253&fmt=auto&app=138&f=JPEG?w=730&h=322",
+		"title":"今日热点",
 		"type":2
 	},
 	{
-		"url":"http://www.baidu.com",
-		"img":"https://s21.ax1x.com/2024/07/22/pk7UEvQ.jpg",
-		"title":"微信公众号",
-		"type":3
+		"url":"https://dlidli.wang/#tab-4-6",
+		"img":"https://img0.baidu.com/it/u=1401352299,1320858654&fm=253&fmt=auto&app=138&f=JPEG?w=889&h=500",
+		"title":"导航",
+		"type":2
 	}
 ]
